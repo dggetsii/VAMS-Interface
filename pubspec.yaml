@@ -1,0 +1,5 @@
+name: Interfaz_prueba
+description: A sample web application
+dependencies:
+  browser: any
+  stagexl: any
